@@ -1,0 +1,42 @@
+Nillard Ltd Skills License 1.0
+
+Copyright (c) 2026 Nillard Ltd (company number 16312961, registered in England and Wales).
+All rights reserved, except as granted below.
+
+"The Skills" means everything in this repository: the SKILL.md file, references, scripts
+and documentation, except the third-party components listed in THIRD-PARTY below, which keep
+their own licenses.
+
+1. What you may do
+   You may download, install and use the Skills, and modify your own copy, for your own work,
+   including commercial work such as producing videos and thumbnails for a monetised channel or for
+   clients. Videos, images and other outputs you create with the Skills are yours.
+
+2. What you may not do without written permission from Nillard Ltd
+   a. Sell, rent, sublicense or otherwise charge for the Skills or any modified version of them.
+   b. Redistribute, publish or share the Skills or a modified version (for example in a public repository,
+      marketplace, course, community, template pack or bundle), whether free or paid.
+   c. Include the Skills, or substantial parts of them, in a paid product, course, membership or service.
+   d. Remove or change this license or the copyright notice.
+
+3. Sharing
+   To give the Skills to someone else, point them to the official source so they can get their own copy:
+   https://github.com/docusphere/claude-skill-borumi-editor
+
+4. No warranty
+   The Skills are provided "as is", without warranty of any kind. Nillard Ltd is not liable for any claim,
+   damages or other liability arising from their use, including generation credits spent, edits made to your
+   projects, or the content you publish. You are responsible for having the rights to any media you use
+   (photos, music, sound effects, other creators' thumbnails).
+
+5. Termination
+   If you break these terms, your permission to use the Skills ends automatically.
+
+6. Governing law
+   These terms are governed by the laws of England and Wales.
+
+For permission requests: contact Nillard Ltd.
+
+THIRD-PARTY
+- None bundled. No sound effects, music, fonts or footage are included; you bring your own licensed assets.
+- Borumi is a separate app by its own developer. This project is not affiliated with or endorsed by Borumi.

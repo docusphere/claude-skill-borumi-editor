@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Node / renderer
+node_modules/
+.home/
+
+# macOS
+.DS_Store
+._*
+
+# Local, per-user config
+config.md
+
+# Renders and scratch (never commit video)
+*.mp4
+*.mov
+*.wav
+out/
+work/
